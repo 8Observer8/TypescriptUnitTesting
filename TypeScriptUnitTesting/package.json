@@ -1,0 +1,33 @@
+{
+  "name": "HelloTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/expect": "^1.13.30",
+    "@types/jasmine": "^2.5.35",
+    "@types/mocha": "^2.2.32",
+    "@types/sinon": "^1.16.31",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "jasmine": "^2.5.2",
+    "karma": "^0.13.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-ie-launcher": "0.2.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-mocha": "^1.2.0",
+    "karma-sinon": "^1.0.5",
+    "karma-typescript-preprocessor": "^0.3.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "typescript": "^2.0.3"
+  }
+}
